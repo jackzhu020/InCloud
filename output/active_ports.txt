@@ -1,4 +1,6 @@
-wfcbsc.com:443
-wfcbsc.com:80
-www.wfcbsc.com:443
-www.wfcbsc.com:80
+578d.tv:443
+578d.tv:5000
+578d.tv:80
+www.578d.tv:443
+www.578d.tv:5000
+www.578d.tv:80
